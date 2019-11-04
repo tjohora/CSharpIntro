@@ -1,0 +1,9 @@
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\bin\Debug\Assignment1-1.exe.config
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\bin\Debug\Assignment1-1.exe
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\bin\Debug\Assignment1-1.pdb
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\obj\Debug\Assignment1-1.csprojAssemblyReference.cache
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\obj\Debug\Assignment1_1.Form1.resources
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\obj\Debug\Assignment1_1.Properties.Resources.resources
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\obj\Debug\Assignment1-1.csproj.GenerateResource.cache
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\obj\Debug\Assignment1-1.exe
+C:\Users\TJ\source\repos\Assignment1-1\Assignment1-1\obj\Debug\Assignment1-1.pdb
